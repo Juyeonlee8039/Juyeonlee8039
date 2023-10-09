@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Juyeon's%20Space&fontColor=000FFF&fontSize=50" />
+
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Csharp](https://img.shields.io/badge/Csharp-512BD4.svg?&style=for-the-badge&logo=Csharp&logoColor=blue)
+
